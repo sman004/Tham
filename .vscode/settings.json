@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "ProductsApi.sln",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0f551c36-23ee-46c6-a767-e3a0f8ba6f52/resourceGroups/thamco-group/providers/Microsoft.Web/sites/products-api",
+    "appService.deploySubpath": "ProductsApi\\bin\\publish"
+}
